@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component_$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -59,7 +59,7 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -76,7 +76,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -93,7 +93,7 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -110,7 +110,7 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -127,7 +127,7 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -144,7 +144,7 @@ AnnotateScope=All
 AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -173,20 +173,20 @@ DocumentPath=Project Outputs for uz_per_current_measurement_dsub_to_rj45\uz_per_
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Tom Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=Tom Gaupp
-
-[Parameter3]
 Name=Project
 Value=uz_per_current_dsub_to_rj45
 
+[Parameter3]
+Name=AuthorParam
+Value=Tom Gaupp
+
 [Parameter4]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=Tom Gaupp
 
 [Configuration1]
 Name=Sources
