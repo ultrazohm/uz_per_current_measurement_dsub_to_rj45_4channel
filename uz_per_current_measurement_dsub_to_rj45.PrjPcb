@@ -173,20 +173,32 @@ DocumentPath=Project Outputs for uz_per_current_measurement_dsub_to_rj45\uz_per_
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Tom Gaupp
+Name=ProjectNameCustom
+Value=uz_per_current_measurement_4channel
 
 [Parameter2]
-Name=AuthorParam
-Value=Tom Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter3]
 Name=Project
 Value=uz_per_current_dsub_to_rj45
 
 [Parameter4]
-Name=ProjectRevision
-Value=Rev01
+Name=FinDate
+Value=04/26
+
+[Parameter5]
+Name=AuthorParam
+Value=Tom Gaupp
+
+[Parameter6]
+Name=Author
+Value=Tom Gaupp
+
+[Parameter7]
+Name=
+Value=
 
 [Configuration1]
 Name=Sources
