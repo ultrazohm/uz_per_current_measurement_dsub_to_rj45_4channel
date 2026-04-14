@@ -168,37 +168,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESCLSYKV
 
+[Document8]
+DocumentPath=uz_per_current_measurement_dsub_to_rj45.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for uz_per_current_measurement_dsub_to_rj45\uz_per_current_measurement_dsub_to_rj45.nsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectNameCustom
-Value=uz_per_current_measurement_4channel
-
-[Parameter2]
-Name=ProjectRevision
-Value=Rev01
-
-[Parameter3]
-Name=Project
-Value=uz_per_current_dsub_to_rj45
-
-[Parameter4]
-Name=FinDate
-Value=04/26
-
-[Parameter5]
-Name=AuthorParam
-Value=Tom Gaupp
-
-[Parameter6]
 Name=Author
 Value=Tom Gaupp
 
-[Parameter7]
-Name=
-Value=
+[Parameter2]
+Name=AuthorParam
+Value=Tom Gaupp
+
+[Parameter3]
+Name=FinDate
+Value=04/26
+
+[Parameter4]
+Name=Project
+Value=uz_per_current_dsub_to_rj45
+
+[Parameter5]
+Name=ProjectNameCustom
+Value=uz_per_current_measurement_4channel
+
+[Parameter6]
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
