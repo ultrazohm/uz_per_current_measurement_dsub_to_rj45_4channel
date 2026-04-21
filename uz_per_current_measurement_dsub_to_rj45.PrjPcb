@@ -243,28 +243,32 @@ DocumentPath=Project Outputs for Free Documents\NC Drill\uz_per_current_measurem
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Tom Gaupp
+Name=ZC_vv
+Value=00
 
 [Parameter2]
-Name=AuthorParam
-Value=Tom Gaupp
+Name=ZC_PPP
+Value=008
 
 [Parameter3]
-Name=FinDate
-Value=04/26
+Name=ZC_GGG
+Value=004
 
 [Parameter4]
-Name=Project
-Value=uz_per_current_dsub_to_rj45
+Name=ProjectRevision
+Value=01
 
 [Parameter5]
-Name=ProjectNameCustom
-Value=uz_per_current_measurement_4channel
+Name=ProjectDate
+Value=04/26
 
 [Parameter6]
-Name=ProjectRevision
-Value=Rev01
+Name=Project
+Value=uz_per_current_measurement_dsub_to_rj45
+
+[Parameter7]
+Name=AuthorParam
+Value=Tom Gaupp
 
 [Configuration1]
 Name=Sources
