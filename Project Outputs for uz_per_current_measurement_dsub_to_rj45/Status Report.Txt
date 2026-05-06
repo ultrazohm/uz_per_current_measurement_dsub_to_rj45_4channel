@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:15:01 On 06/05/2026
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [Differential_Input] of PCB Document [uz_per_current_measurement_dsub_to_rj45.PcbDoc]
+   Generated File[uz_per_current_measurement_dsub_to_rj45.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:15:08 On 06/05/2026

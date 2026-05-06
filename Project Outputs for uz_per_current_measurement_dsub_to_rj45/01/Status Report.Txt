@@ -1,0 +1,10 @@
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [Differential_Input] of PCB Document [uz_per_current_measurement_dsub_to_rj45.PcbDoc]
+   Generated File[Pick Place for uz_per_current_measurement_dsub_to_rj45.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:16:07 On 06/05/2026
