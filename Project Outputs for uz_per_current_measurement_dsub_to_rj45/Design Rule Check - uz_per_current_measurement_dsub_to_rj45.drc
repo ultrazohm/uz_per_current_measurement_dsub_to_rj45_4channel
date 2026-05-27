@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\gauppto\Documents\uz_per_current_measurement_dsub_to_rj45_4channel\uz_per_current_measurement_dsub_to_rj45.PcbDoc
-Date     : 20/05/2026
-Time     : 13:57:18
+Date     : 27/05/2026
+Time     : 15:02:07
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -37,12 +37,7 @@ Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.1492mm (5.8736mil) < 0.15mm (5.9055mil)) Between Arc (105.55mm,79.345mm) on Top Overlay And Text " .ZC_GGG-.ZC_PPP-.ProjectRevision.ZC_vv-" (113.5mm,64mm) on Top Overlay Silk Text to Silk Clearance [0.149mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text ".Project
-.ProjectRevision
-.AuthorParam
-.ProjectDate" (116mm,140.5mm) on Top Overlay And Text "X5" (111.608mm,141.275mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -51,6 +46,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
