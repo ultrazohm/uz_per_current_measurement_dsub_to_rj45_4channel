@@ -1,10 +1,10 @@
-Output: BOM_JLC
-Type  : BOM
-From  : Variant [[No Variations]] of Project [uz_per_current_measurement_dsub_to_rj45.PrjPcb]
-   Generated File[BOM_JLC-uz_per_current_measurement_dsub_to_rj45.xlsx]
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [uz_per_current_measurement_dsub_to_rj45.PcbDoc]
+   Generated File[Pick Place for uz_per_current_measurement_dsub_to_rj45.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:31:53 On 03/06/2026
+Finished Output Generation At 16:12:54 On 03/06/2026
