@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\gauppto\Documents\uz_per_current_measurement_dsub_to_rj45_4channel\uz_per_current_measurement_dsub_to_rj45.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

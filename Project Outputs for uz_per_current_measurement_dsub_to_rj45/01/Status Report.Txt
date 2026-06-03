@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 15:22:17 On 27/05/2026
-
 Output: BOM_JLC
 Type  : BOM
-From  : Variant [Differential_Input] of Project [uz_per_current_measurement_dsub_to_rj45.PrjPcb]
+From  : Variant [[No Variations]] of Project [uz_per_current_measurement_dsub_to_rj45.PrjPcb]
    Generated File[BOM_JLC-uz_per_current_measurement_dsub_to_rj45.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:22:37 On 27/05/2026
+Finished Output Generation At 15:31:53 On 03/06/2026
